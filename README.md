@@ -33,3 +33,7 @@ The interactive nature of the dashboards allows users to explore relationships b
 
 <p> The visual theme emphasizes the relationship between health behaviours and lifestyle choices, setting the stage for deeper insights throughout the dashboards. It orients viewers to expect an analysis segmented by state, income, age, sex, and race.
 </p>
+
+<p align="center">
+  <img src="https://github.com/nikkishimao/PublicHealthAnalysisProject/blob/main/images/CoverPage.png" alt="image alt" width="700" />
+</p>
